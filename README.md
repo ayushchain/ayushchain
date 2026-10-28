@@ -7,6 +7,15 @@
 🔬 Interested in Machine Learning, NLP and AI-text detection
 🌱 Currently sharpening DSA and full-stack development
 
+## 💼 Experience
+**Software Development Intern — TrailShopy** *(Remote, May–Jul 2025)*
+- Built responsive UI components, improved cross-device compatibility, and optimized website page-load performance
+- Collaborated on backend services and RESTful APIs; tested and debugged features to improve application stability
+
+## 🎓 Education
+**B.Tech + M.Tech (Dual Degree), Computer Science & Engineering (Data Science)**
+National Institute of Technology, Patna — 2022–2027
+
 ## 🛠️ Tech Stack
 **Languages:** C · Java · Python · JavaScript
 **Web:** HTML · CSS3 · ReactJS · NodeJS · ExpressJS · MERN Stack
