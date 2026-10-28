@@ -36,6 +36,7 @@ Working on how OCR and vision-language model (VLM) readers change AI-text detect
 
 ## 🏆 Achievements
 - **UGC-NET (Computer Science & Applications), June 2026** — Qualified for Ph.D. admission
+- **JEE Advanced 2022** — Qualified Joint Entrance Examination (JEE) Advanced
 - Cleared **NTSE Stage-I** (2018) · Qualified **JEE Main** (2022)
 - Scholar Badge recipient (multiple times) and Class Representative in school; district-level competition winner
 
