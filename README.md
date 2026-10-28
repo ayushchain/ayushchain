@@ -24,11 +24,11 @@ National Institute of Technology, Patna — 2022–2027
 
 ## 🚀 Projects
 **FineSurE — Fine-Grained Text Summarization Evaluation Model**
-Used LLMs to evaluate summary quality across faithfulness, completeness and conciseness, at sentence and summary level. Achieved **86.4% balanced accuracy** in sentence-level faithfulness evaluation, benchmarked across multiple LLMs against human judgments.
+Used LLMs to evaluate summary quality across faithfulness, completeness and conciseness, at sentence and summary level. Achieved **86.4% balanced accuracy** in sentence-level faithfulness evaluation, benchmarked across multiple LLMs against human judgments. [Code](https://github.com/ayushchain/FineSurE)
 *Python · NLP · LLMs*
 
 **SmartBazaar — Supermarket Automation System**
-A web-based supermarket automation system for billing, invoicing, inventory management and sales reporting, designed with full software-engineering artifacts (SRS, DFDs, Use Cases, Class Diagrams).
+A web-based supermarket automation system for billing, invoicing, inventory management and sales reporting, designed with full software-engineering artifacts (SRS, DFDs, Use Cases, Class Diagrams). [Code](https://github.com/ayushchain/Supermarket-Automation-System-Software)
 *ReactJS · NodeJS · ExpressJS · MongoDB*
 
 ## 📚 Research
