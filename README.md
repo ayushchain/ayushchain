@@ -25,9 +25,22 @@ A web-based supermarket automation system for billing, invoicing, inventory mana
 ## 📚 Research
 Working on how OCR and vision-language model (VLM) readers change AI-text detection across English, Hindi and Romanized Hindi.
 
+## 🏆 Achievements
+- **UGC-NET (Computer Science & Applications), June 2026** — Qualified for Ph.D. admission
+- Cleared **NTSE Stage-I** (2018) · Qualified **JEE Main** (2022)
+- Scholar Badge recipient (multiple times) and Class Representative in school; district-level competition winner
+
+## 🎪 Hackathons & Certifications
+- **ByteVerse Hackathon** — HackSlash, NIT Patna (Sep 2023)
+- **UI/UX Hackathon** — HackSlash, NIT Patna (Oct 2024)
+
+## 🤝 Leadership & Volunteering
+- **Mentor & Teacher** — Sankalp (NSS), NIT Patna: teaching and mentoring underprivileged children
+- **Volunteer** — National Service Scheme (NSS), NIT Patna
+- **Member** — Think India, NIT Patna · PR & Sponsorship Team, NIT Patna
+
 ## 🤝 Connect
-- LinkedIn: https://linkedin.com/in/ayushchain08
-- GitHub: https://github.com/ayushchain
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushchain08) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushchain)
 
 ## 📊 Currently
 - 🎯 Looking for a **Software Development Internship (Jan–Jun 2027)**
