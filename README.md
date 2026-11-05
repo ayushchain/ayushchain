@@ -52,6 +52,7 @@ Working on how OCR and vision-language model (VLM) readers change AI-text detect
 ## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushchain08) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushchain)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayushchain.github.io)
+[![Email](https://img.shields.io/badge/Email-ayush08nitp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush08nitp@gmail.com)
 
 ## 📊 Currently
 - 🎯 Looking for a **Software Development Internship (Jan–Jun 2027)**
