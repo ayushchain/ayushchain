@@ -31,6 +31,11 @@ Used LLMs to evaluate summary quality across faithfulness, completeness and conc
 A web-based supermarket automation system for billing, invoicing, inventory management and sales reporting. I built the core application features and produced the full software-engineering design artifacts (SRS, DFDs, Use Cases, Class Diagrams). [Code](https://github.com/ayushchain/Supermarket-Automation-System-Software)
 *ReactJS · NodeJS · ExpressJS · MongoDB*
 
+**DSA Solutions — C++**
+My data structures and algorithms practice from SDE interview preparation — pattern by pattern, each problem first understood fully, then solved. Currently: sliding window. [Code](https://github.com/ayushchain/DSA-Solutions-CPP)
+*C++ · Data Structures · Algorithms*
+
+
 ## 📚 Research
 Working on how OCR and vision-language model (VLM) readers change AI-text detection across English, Hindi and Romanized Hindi.
 
