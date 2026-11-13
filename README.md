@@ -17,7 +17,7 @@
 National Institute of Technology, Patna — 2022–2027
 
 ## 🛠️ Tech Stack
-**Languages:** C · Java · Python · JavaScript
+**Languages:** C · C++ · Java · Python · JavaScript
 **Web:** HTML · CSS3 · ReactJS · NodeJS · ExpressJS · MERN Stack
 **Databases:** MySQL · MongoDB
 **Tools:** LaTeX · Figma · Git
