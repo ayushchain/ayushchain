@@ -32,7 +32,7 @@ A web-based supermarket automation system for billing, invoicing, inventory mana
 *ReactJS · NodeJS · ExpressJS · MongoDB*
 
 **DSA Solutions — C++**
-My data structures and algorithms practice from SDE interview preparation — pattern by pattern, each problem first understood fully, then solved. Currently: sliding window. [Code](https://github.com/ayushchain/DSA-Solutions-CPP)
+My data structures and algorithms practice from SDE interview preparation — pattern by pattern, each problem first understood fully, then solved. Currently: sliding window and trees. [Code](https://github.com/ayushchain/DSA-Solutions-CPP)
 *C++ · Data Structures · Algorithms*
 
 
@@ -55,7 +55,7 @@ Working on how OCR and vision-language model (VLM) readers change AI-text detect
 - **Member** — Think India, NIT Patna · PR & Sponsorship Team, NIT Patna
 
 ## 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushchain08) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushchain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushchain08) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushchain) [![LeetCode](https://img.shields.io/badge/LeetCode-ayushchain-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayushchain/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayushchain.github.io)
 [![Email](https://img.shields.io/badge/Email-ayush08nitp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush08nitp@gmail.com)
 
