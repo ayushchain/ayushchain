@@ -32,7 +32,7 @@ A web-based supermarket automation system for billing, invoicing, inventory mana
 *ReactJS · NodeJS · ExpressJS · MongoDB*
 
 **DSA Solutions — C++**
-My data structures and algorithms practice from SDE interview preparation — pattern by pattern, each problem first understood fully, then solved. Currently: sliding window and trees. [Code](https://github.com/ayushchain/DSA-Solutions-CPP)
+My data structures and algorithms practice from SDE interview preparation — pattern by pattern, each problem first understood fully, then solved. Currently: sliding window, trees, arrays and DP. [Code](https://github.com/ayushchain/DSA-Solutions-CPP)
 *C++ · Data Structures · Algorithms*
 
 
