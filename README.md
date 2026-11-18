@@ -36,7 +36,7 @@ My data structures and algorithms practice from SDE interview preparation — pa
 *C++ · Data Structures · Algorithms*
 
 **AI Resume Matching & Candidate Ranking System**
-An AI-based system that ranks candidate resumes against a job description with an explainable match score (0–100) — semantic similarity using Sentence Transformers combined with skill coverage and experience fit — with a ranking dashboard and a per-candidate breakdown of matched skills, missing skills and score reasons. Tested end-to-end with 14 sample resumes (PDF + DOCX). [Code](https://github.com/ayushchain/ai-resume-matching-system)
+An AI-based system that ranks candidate resumes against a job description with an explainable match score (0–100) — semantic similarity using Sentence Transformers combined with skill coverage and experience fit — with a ranking dashboard and a per-candidate breakdown of matched skills, missing skills and score reasons. Tested end-to-end with 14 sample resumes (PDF + DOCX). Every ranking run is saved to a SQLite database with a browsable run history, and the backend is covered by 20 unit tests. [Code](https://github.com/ayushchain/ai-resume-matching-system)
 *Python · FastAPI · React · NLP*
 
 
