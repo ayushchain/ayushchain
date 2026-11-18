@@ -65,5 +65,5 @@ Working on how OCR and vision-language model (VLM) readers change AI-text detect
 [![Email](https://img.shields.io/badge/Email-ayush08nitp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush08nitp@gmail.com)
 
 ## 📊 Currently
-- 🎯 Looking for a **Software Development Internship (Jan–Jun 2027)**
+- 🎯 Looking for a **Software Development Internship (Jan–Jun 2027)** and **full-time SDE roles open to the 2027 batch**
 - 📚 Strengthening Data Structures & Algorithms and system design basics
