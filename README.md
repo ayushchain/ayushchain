@@ -35,6 +35,11 @@ A web-based supermarket automation system for billing, invoicing, inventory mana
 My data structures and algorithms practice from SDE interview preparation — pattern by pattern, each problem first understood fully, then solved. Currently: sliding window, trees, arrays and DP. [Code](https://github.com/ayushchain/DSA-Solutions-CPP)
 *C++ · Data Structures · Algorithms*
 
+**AI Resume Matching & Candidate Ranking System**
+An AI-based system that ranks candidate resumes against a job description with an explainable match score (0–100) — semantic similarity using Sentence Transformers combined with skill coverage and experience fit — with a ranking dashboard and a per-candidate breakdown of matched skills, missing skills and score reasons. Tested end-to-end with 14 sample resumes (PDF + DOCX). [Code](https://github.com/ayushchain/ai-resume-matching-system)
+*Python · FastAPI · React · NLP*
+
+
 
 ## 📚 Research
 Working on how OCR and vision-language model (VLM) readers change AI-text detection across English, Hindi and Romanized Hindi.
